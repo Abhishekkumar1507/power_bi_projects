@@ -13,9 +13,13 @@
 
 3. **MavenMarket Sales Analysis**
    ![MavenMarket_Sales_p](https://github.com/Abhishekkumar1507/power_bi_projects/assets/76273548/23449ceb-fad5-4728-9b68-4a7abdf8a3ad)
-   
-4. **Titanic Exploratory Dashboard**
+
+4. **Global Terrorism Dataset**
+   ![GTD_EDA_Dashboard_1](https://github.com/Abhishekkumar1507/power_bi_projects/assets/76273548/a41166b6-347b-4142-8b34-281bc38597cb)
+   ![GTD_EDA_Dashboard_2](https://github.com/Abhishekkumar1507/power_bi_projects/assets/76273548/53b8e757-b0e2-4f88-ba12-a1685a2d3d00)
+
+5. **Titanic Exploratory Dashboard**
    ![Titanic_Dashboard_1](https://github.com/Abhishekkumar1507/power_bi_projects/assets/76273548/fa5d54bc-2374-4080-abf9-c707e801fbef)
 
-5. **Superstorre Sales Analysis**
+6. **Superstorre Sales Analysis**
    ![SampleSuperstore_Dashboard_2_1](https://github.com/Abhishekkumar1507/power_bi_projects/assets/76273548/0f4f9453-12a1-4813-a2e6-14057196a075)
