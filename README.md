@@ -13,8 +13,7 @@
 
 3. **MavenMarket Sales Analysis**
    ![MavenMarket_Sales_p](https://github.com/Abhishekkumar1507/power_bi_projects/assets/76273548/23449ceb-fad5-4728-9b68-4a7abdf8a3ad)
-   ![MavenMarket_Sales_p2](https://github.com/Abhishekkumar1507/power_bi_projects/assets/76273548/7972ff40-7232-447e-af97-9ddcf68294a9)
-
+   
 4. **Titanic Exploratory Dashboard**
    ![Titanic_Dashboard_1](https://github.com/Abhishekkumar1507/power_bi_projects/assets/76273548/fa5d54bc-2374-4080-abf9-c707e801fbef)
 
